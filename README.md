@@ -10,12 +10,14 @@ Running automated checks or linters
 Notifying reviewers via Slack or email
 Logging review activity
 Sending reminders for pending reviews
+
 ⚙️ Features
 GitHub Integration: Triggers workflows on pull request events
 Automated Checks: Runs scripts or external services for linting and testing
 Notifications: Sends alerts to reviewers through preferred channels
 Reminders: Periodic follow-ups for unreviewed PRs
 Logging: Tracks review status and outcomes
+
 🧰 Tech Stack
 n8n – Workflow automation
 GitHub Webhooks – Trigger workflows on PR events
