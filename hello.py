@@ -1,1 +1,1 @@
-print("Hello Potato!")
+print("Hello Potato! Fries")
